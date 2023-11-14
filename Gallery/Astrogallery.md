@@ -10,6 +10,8 @@ Below here are the results of my nights spent with the stars. rawr~
 
 ## 2023
 
+### October
+
 I was waiting for my intervalometer to get delivered, but still decided to get the camera and tripod out and get some images.
 
 > The Moon and Jupiter on October 2nd
@@ -60,3 +62,30 @@ Again, this is only a stretch of the stacked data. As you can see, I didn't know
 
 ---
 
+A bit later in the month, I learned about Siril and some of its editing capabilities. With that new knowledge, I decided to revisit my data of Andromeda, Pleiades and Orion that I collected earlier in the month...it would have been nice to collect more data, but clouds disagreed~ :3
+
+With the use of Siril and Starnet++, I was able to push the editing of all that data much further. Here are the new edits!
+
+> The Andromeda galaxy captured on October 14 and 15, second edit done on October 20
+
+![The Andromeda Galaxy](./2023/2023-10-20%20M31%20Andromeda.png)
+
+> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+
+---
+
+> The Pleiades star cluster captured on October 14 and 15, second edit done on October 24
+
+![The Pleiades](./2023/2023-10-24%20M45%20Pleiades.png)
+
+> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+
+---
+
+> The Orion and Running Man nebulae (bottom right) along with the Flame and Horsehead nebulae (top left) captured on October 14 and 15 and edited on October 24
+
+![The Orion, Running Man, Flame and Horsehead nebulae](./2023/2023-10-24%20M42%20Orion.png)
+
+> 85mm focal length | 1600 ISO | F/2 | 28min exposure (2sec per light)
+
+---
