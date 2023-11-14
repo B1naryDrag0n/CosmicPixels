@@ -6,7 +6,7 @@ I started this hobby in October of 2023 after spending the couple previous month
 
 This repository is meant to be a little gallery of my journey through the stars. It has two main sections:
 
-- [**The Astro Gallery**](./2_Astrogallery.md) : my final edits
-- [**The Astro Stack Library**](./3_Astrostack.md) : stacked images used for the edits in the gallery
+- [**The Astro Gallery**](./1_Astrogallery.md) : my final edits
+- [**The Astro Stack Library**](./2_Astrostack.md) : stacked images used for the edits in the gallery
 
 Hope you enjoy! :3
