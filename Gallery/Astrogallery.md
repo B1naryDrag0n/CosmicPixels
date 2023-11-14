@@ -18,7 +18,7 @@ I was waiting for my intervalometer to get delivered, but still decided to get t
 
 ![The Moon and Jupiter](./2023/2023-10-02%20Moon%20and%20Jupiter.png)
 
-> 55mm focal length | 1600 ISO | F/5.6 | 1sec exposure
+> 55mm focal length | 1600 ISO | F/5.6 | 1 sec exposure
 
 This image has close to no editing, I barely touched the contrast a little bit, cropped and called it a day.
 
@@ -32,7 +32,7 @@ A few days later, got a weekend with some clear nights and this time I was ready
 
 ![The Andromeda Galaxy](./2023/2023-10-15%20M31%20Andromeda.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 32 min exposure (2 sec per light)
 
 This image of Andromeda is my very first attempt at capturing as well as editing data of a deep space object. The edit is very minimal, all I did was stretching the data histogram in Glimpse and voilà!
 
@@ -44,7 +44,7 @@ Once Andromeda got out of a comfortable capture position, I aimed my camera at a
 
 ![The Pleiades](./2023/2023-10-16%20M45%20Pleiades.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 32 min exposure (2 sec per light)
 
 This image is again a very minimal edit, a.k.a stretching the data in Glimpse.
 
@@ -56,7 +56,7 @@ Later in the night, I moved my setup to another spot in the backyard in order to
 
 ![The Orion, Running Man, Flame and Horsehead nebulae](./2023/2023-10-16%20M42%20Orion.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 28min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 28 min exposure (2 sec per light)
 
 Again, this is only a stretch of the stacked data. As you can see, I didn't know how to fix a background color gradient yet, so I tried to crop my image in a way that the gradient would be part of the composition somehow.
 
@@ -70,7 +70,7 @@ With the use of Siril and Starnet++, I was able to push the editing of all that 
 
 ![The Andromeda Galaxy](./2023/2023-10-20%20M31%20Andromeda.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 32 min exposure (2 sec per light)
 
 ---
 
@@ -78,7 +78,7 @@ With the use of Siril and Starnet++, I was able to push the editing of all that 
 
 ![The Pleiades](./2023/2023-10-24%20M45%20Pleiades.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 32 min exposure (2 sec per light)
 
 ---
 
@@ -86,6 +86,25 @@ With the use of Siril and Starnet++, I was able to push the editing of all that 
 
 ![The Orion, Running Man, Flame and Horsehead nebulae](./2023/2023-10-24%20M42%20Orion.png)
 
-> 85mm focal length | 1600 ISO | F/2 | 28min exposure (2sec per light)
+> 85mm focal length | 1600 ISO | F/2 | 28 min exposure (2 sec per light)
 
 ---
+
+During that time of cloudiness, amazed with the results I got so far, I decided to go ahead and purchase my first telescope along with a mount and tripod and other accessories so I can take this new hobby to the next level...and also not full all my computer storage in a few sessions cause I am stuck taking 2-second exposures! :3
+
+So I got a nice astrograph refractor telescope from Askar, the 65PHQ (65mm aperture, 416mm focal length, F/6.4). Also got a nice Skywatcher Star Adventurer GTI to support that amazing scope. Coupled with a Canon 60D Full-Spectrum and a UV-IR block filter, I was ready for moar!! :3
+
+Around Halloween, the clouds finally decided to let me peak at the sky a little bit, but a lot of the stars were nowhere to be seen! The full Moon in all its glory was illuminating the night and so I decided to aim my new fancy telescope at it!
+
+> The Moon taken on October 28 and edited the same night
+
+![The Moon](./2023/2023-10-28%20Moon.png)
+
+> 416mm focal length | 1600 ISO | F/6.4 | 1/8000 sec
+
+---
+
+On the night of Halloween, Jupiter gazed through the clouds a few times and I tried lucky imaging for the first time with the crop mode video on my Canon 60D. It took a little bit of time until I went ahead and got the softwares I need to process the data I collected...which brings us to...
+
+### November
+
