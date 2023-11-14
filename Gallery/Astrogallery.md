@@ -12,13 +12,13 @@ I was waiting for my intervalometer to get delivered, but still decided to get t
 
 > 55mm focal length | 1600 ISO | F/5.6 | 1sec exposure
 
-This image has close to no edit, I barely touched the contrast a little bit, cropped and called it a day.
+This image has close to no editing, I barely touched the contrast a little bit, cropped and called it a day.
 
 ---
 
-After I got my intervalometer, it took a little while but I eventually managed to get some clear skies. Armed with my Canon Rebel T7, a tripod and my intervalometer, I took my first lights...but unfortunately, I didn't do the focus properly, so I ended up with some nice donuts instead of stars. Amazing!
+After I got my intervalometer, it took a little while but I eventually managed to get some clear skies. Armed with my Canon Rebel T7, a tripod and my new intervalometer, I took my first lights...but unfortunately, I didn't do the focus properly, so I ended up with some nice donuts instead of stars. Homer Simpson would be so proud! :3
 
-A few days later, got a weekend with some clear nights and this time I was ready and determined to make this work! I captured 3 different targets throught the course of both nights, starting with the first and moving to the next when the current target would get to an area of the sky that made it quite inconvenient to take pictures.
+A few days later, got a weekend with some clear nights and this time I was ready and determined to make this work! I captured 3 different targets through the course of both nights, starting with the first target and moving to the next when the current target would get to an area of the sky that made it quite inconvenient to take pictures.
 
 > The Andromeda galaxy captured on October 14 and 15 and edited on October 15
 
@@ -38,19 +38,19 @@ Once Andromeda got out of a comfortable capture position, I aimed my camera at a
 
 > 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
 
-This image is again a very minimal edit, a.k.a stretching the data in glimpse.
+This image is again a very minimal edit, a.k.a stretching the data in Glimpse.
 
 ---
 
-Later in the night, I moved my setup to another spot in the backyard in order to have a good field of view on my third target: the Orion constellation! More specifically, the lower half. The Orion constellation has a lot of stuff going on around it. Here is part of what you can find around those stars.
+Later in the night, I moved my setup to another spot in the backyard in order to have a good field of view on my third target: the Orion constellation, more specifically the lower half. The Orion constellation has a lot of stuff going on! Here is part of what you can find around those stars.
 
-> The Orion and Running Man nebulae along with the Flame and Horsehead nebulae captured on October 14 and 15 and edited on October 16
+> The Orion and Running Man nebulae (bottom right) along with the Flame and Horsehead nebulae (top left) captured on October 14 and 15 and edited on October 16
 
 ![The Orion, Running Man, Flame and Horsehead nebulae](./2023/2023-10-16%20M42%20Orion.png)
 
 > 85mm focal length | 1600 ISO | F/2 | 28min exposure (2sec per light)
 
-Again, this is only a stretch of the stacked data.
+Again, this is only a stretch of the stacked data. As you can see, I didn't know how to fix a background color gradient yet, so I tried to crop my image in a way that the gradient would be part of the composition somehow.
 
 ---
 
