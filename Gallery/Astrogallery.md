@@ -29,3 +29,28 @@ A few days later, got a weekend with some clear nights and this time I was ready
 This image of Andromeda is my very first attempt at capturing as well as editing data of a deep space object. The edit is very minimal, all I did was stretching the data histogram in Glimpse and voilà!
 
 ---
+
+Once Andromeda got out of a comfortable capture position, I aimed my camera at a new target that was now visible from my vantage point: the Pleiades!
+
+> The Pleiades star cluster captured on October 14 and 15 and edited on October 16
+
+![The Pleiades](./2023/2023-10-16%20M45%20Pleiades.png)
+
+> 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+
+This image is again a very minimal edit, a.k.a stretching the data in glimpse.
+
+---
+
+Later in the night, I moved my setup to another spot in the backyard in order to have a good field of view on my third target: the Orion constellation! More specifically, the lower half. The Orion constellation has a lot of stuff going on around it. Here is part of what you can find around those stars.
+
+> The Orion and Running Man nebulae along with the Flame and Horsehead nebulae captured on October 14 and 15 and edited on October 16
+
+![The Orion, Running Man, Flame and Horsehead nebulae](./2023/2023-10-16%20M42%20Orion.png)
+
+> 85mm focal length | 1600 ISO | F/2 | 28min exposure (2sec per light)
+
+Again, this is only a stretch of the stacked data.
+
+---
+
