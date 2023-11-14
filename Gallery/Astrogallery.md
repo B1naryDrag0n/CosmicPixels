@@ -2,6 +2,8 @@
 
 I got my first DSLR camera in early 2020, a Canon EOS Rebel T7, but I did my very first attempts at capturing the night sky in the beginning of October 2023. Below here are the results of my nights spent with the stars. Rawr~
 
+> The unedited data of the images shown here can be found in the [workshop](./../Workshop/Astrostack.md).
+
 ## 2023
 
 I was waiting for my intervalometer to get delivered, but still decided to get the camera and tripod out and get some images.
@@ -13,3 +15,5 @@ I was waiting for my intervalometer to get delivered, but still decided to get t
 > 55mm focal length | 1600 ISO | F/5.6 | 1sec exposure
 
 Two days later, I took some pictures of the Cassiopeia constellation without really knowing what I'm doing in terms of astrophotography...
+
+> The unedited data of the images shown here can be found in the [workshop](./../Workshop/Astrostack.md).
