@@ -12,6 +12,10 @@ I was waiting for my intervalometer to get delivered, but still decided to get t
 
 > 55mm focal length | 1600 ISO | F/5.6 | 1sec exposure
 
+This image has close to no edit, I barely touched the contrast a little bit, cropped and called it a day.
+
+---
+
 After I got my intervalometer, it took a little while but I eventually managed to get some clear skies. Armed with my Canon Rebel T7, a tripod and my intervalometer, I took my first lights...but unfortunately, I didn't do the focus properly, so I ended up with some nice donuts instead of stars. Amazing!
 
 A few days later, got a weekend with some clear nights and this time I was ready and determined to make this work! I captured 3 different targets throught the course of both nights, starting with the first and moving to the next when the current target would get to an area of the sky that made it quite inconvenient to take pictures.
@@ -21,3 +25,7 @@ A few days later, got a weekend with some clear nights and this time I was ready
 ![The Andromeda Galaxy](./2023/2023-10-15%20M31%20Andromeda.png)
 
 > 85mm focal length | 1600 ISO | F/2 | 32min exposure (2sec per light)
+
+This image of Andromeda is my very first attempt at capturing as well as editing data of a deep space object. The edit is very minimal, all I did was stretching the data histogram in Glimpse and voilà!
+
+---
