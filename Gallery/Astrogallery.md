@@ -1,6 +1,6 @@
 # The Astro Gallery
 
-I got my first DSLR camera in early 2020, a Canon EOS Rebel T7, but I did my very first attempts at capturing the night sky in the beginning of October 2023. Below here are the results of my nights spent with the stars. Rawr~
+I got my first DSLR camera in early 2020, a Canon EOS Rebel T7, but I did my very first attempts at capturing the night sky in the beginning of October 2023. Below here are the results of my nights spent with the stars. rawr~
 
 ## 2023
 

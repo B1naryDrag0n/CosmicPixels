@@ -6,8 +6,8 @@ I started this hobby in October of 2023 after spending the couple previous month
 
 I thought about getting a telescope many years ago, but soon after, I moved to a big city and so I didn't feel like it would be a good purchase for the time being. Now that I am living under Bortle 4 skies again, I decided to go ahead and get my first telescope after discovering astrophotography!
 
-This repository is meant to be a little gallery of my journey through the stars.
+Hope you enjoy!
 
 [**To the Astro Gallery**](./Gallery/Astrogallery.md)
 
-Hope you enjoy! rawr~ :3
+rawr~ :3
