@@ -11,3 +11,5 @@ I was waiting for my intervalometer to get delivered, but still decided to get t
 ![The Moon and Jupiter](./Gallery/2023/2023-10-02%20Moon%20and%20Jupiter.png)
 
 > 55mm focal length | 1600 ISO | F/5.6 | 1sec exposure
+
+Two days later, I took some pictures of the Cassiopeia constellation without really knowing what I'm doing in terms of astrophotography...
