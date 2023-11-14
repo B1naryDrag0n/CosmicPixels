@@ -1,2 +1,0 @@
-# The Astro Stack Library
-
