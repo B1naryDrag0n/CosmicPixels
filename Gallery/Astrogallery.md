@@ -115,3 +115,13 @@ For this picture of Jupiter, I used lucky imaging, which is basically taking a v
 ![Jupiter and its four biggest moons](./2023/2023-11-08%20Jupiter.png)
 
 ---
+
+On the same day, I was able to get some imaging time again, so I decided to try out the go to function of my Skywatcher Star Adventurer GTI. I went for a new target this time, one that is close to the Cassiopeia constellation: The Pacman nebula!
+
+> The Pacman nebula captured on November 8 and edited on November 9
+
+![The Pacman Nebula](./2023/2023-11-09%20NGC281%20Paku%20Paku.png)
+
+> 416mm focal length | 1600 ISO | F/6.4 | 5 min exposure (10 sec lights)
+
+---
