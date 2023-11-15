@@ -125,3 +125,5 @@ On the same day, I was able to get some imaging time again, so I decided to try 
 > 416mm focal length | 1600 ISO | F/6.4 | 5 min exposure (10 sec lights)
 
 ---
+
+Waiting for moar clear skies...
