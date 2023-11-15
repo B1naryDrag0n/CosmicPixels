@@ -108,3 +108,10 @@ On the night of Halloween, Jupiter gazed through the clouds a few times and I tr
 
 ### November
 
+For this picture of Jupiter, I used lucky imaging, which is basically taking a video of the planet and then use a software to stack all the good frames of the video taken. I did a combination of two images for this one, as it's not possible to capture the moons and the details of Jupiter at the same time.
+
+> Jupiter and its 4 biggest moons captured on October 31 and edited on November 8
+
+![Jupiter and its four biggest moons](./2023/2023-11-08%20Jupiter.png)
+
+---
