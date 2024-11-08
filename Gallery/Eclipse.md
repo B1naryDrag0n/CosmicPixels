@@ -101,4 +101,4 @@ And then, the second partial phase:
 
 ---
 
-![Partial phase](./2024/c3_0427.png)
+![Partial phase](./2024/c4_0427.png)
