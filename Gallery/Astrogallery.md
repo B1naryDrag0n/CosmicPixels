@@ -124,7 +124,7 @@ On the same day, I was able to get some imaging time again, so I decided to try 
 
 > 416mm focal length | 1600 ISO | F/6.4 | 5 min exposure (10 sec lights)
 
----
+### December
 
 The rest of november and most of december were quite uneventful...almost always cloudy at night, the only clear nights being cold AF...as in....-20C cold AF making it pretty impossible to do any imaging out in the open. And it's not for lack of trying...BUT! Finally, on the first night of my vacation...surprise! A completely clear night with a temperature of -10C with no wind. I had to give it a try!
 
@@ -132,7 +132,7 @@ And so I did. My rig was out the whole night and throughout the night, I capture
 
 The first target is a nebula I have taken before, but that was with a smol camera lens. Now, you can witness all those marvelous photons captured with my telescope after their amazing travel of around 1500 light years! The Orion nebula (the big one to the left) along with the running man nebula (smol one to the right). A cradle for baby stars!
 
-­> The Orion nebula and running man nebula captured on December 21 and edited on December 25
+> The Orion nebula and running man nebula captured on December 21 and edited on December 25
 
 ![The Orion Nebula and Running Man Nebula](./2023/2023-12-25%20M42%20Orion.png)
 
@@ -140,4 +140,12 @@ The first target is a nebula I have taken before, but that was with a smol camer
 
 ---
 
-The second target will be coming soon!
+The second target was captured during the same night, once Orion wasn't visible anymore. I gathered very little data on it and so was very hard to process in a way to achieve a satisfactory result...
+
+## 2024
+
+The first part of 2024 was pretty uneventful, I managed to image one night before one amazing event: the total eclipse!
+
+## April
+
+[**Eclipse pictures**](./Gallery/Eclipse.md)
