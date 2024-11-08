@@ -43,7 +43,7 @@ First partial phase of the eclipse:
 
 ---
 
-Here it is: totality! An amazing thing to experience, with the sky getting dark above and orange at the horizon on 360 degrees! The temperature quickly drops as the moon finally hides the sun completely.
+Totality:
 
 ![Totality](./2024/c2_0251_04.png)
 
