@@ -10,4 +10,6 @@ Hope you enjoy!
 
 [**To the Astro Gallery**](./Gallery/Astrogallery.md)
 
+[**If you wanna see my gear**](./Gallery/Gear.md)
+
 rawr~ :3
