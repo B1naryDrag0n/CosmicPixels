@@ -171,3 +171,27 @@ ATLAS
 ![ATLAS Comet](./2024/ATLAS.png)
 
 > 85mm focal length | ?? ISO | F/~2 | single exposure
+
+### November
+
+M31 Andromeda Round 2
+
+> A single picture of 120 sec exposure time
+
+![M31](./2024/M31_Round2/M31_1sub.png)
+
+> 15 of those pictures processed in the ASIAIR (basic processing)
+
+![M31](./2024/M31_Round2/M31_ASIAIRstack.png)
+
+> Stacked, slightly processed with stars removed
+
+![M31](./2024/M31_Round2/M31_starless.png)
+
+> Working on contrast
+
+![M31](./2024/M31_Round2/M31_starlessProcessed.png)
+
+> Final version
+
+![M31](./2024/M31_Round2/M31_finalVersion.png)
