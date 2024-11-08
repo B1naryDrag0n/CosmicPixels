@@ -150,6 +150,24 @@ The first part of 2024 was pretty uneventful, I managed to image one night befor
 
 [**Eclipse pictures**](./Eclipse.md)
 
+M81...
+
+> To be completed...
+
+![M81](./2024/2024-04-13_M81(taken%20on%202024-03-07).png)
+
+> 416mm focal length | 1600 ISO | F/6.4 | ...
+
 ### May
 
 [**Aurora pictures**](./Aurora.md)
+
+### October
+
+ATLAS
+
+> To be completed...
+
+![M81](./2024/2024-04-13_M81(taken%20on%202024-03-07).png)
+
+> 85mm focal length | ?? ISO | F/~2 | single exposure
