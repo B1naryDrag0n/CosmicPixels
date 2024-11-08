@@ -16,6 +16,14 @@
 
 ---
 
+![Focusing](./Gear/Focusing.png)
+
+---
+
+![Guiding](./Gear/Guiding.png)
+
+---
+
 ![Outside at night with the sheep](./Gear/OutsideAtNight.png)
 
 ---

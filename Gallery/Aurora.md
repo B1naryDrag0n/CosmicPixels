@@ -75,3 +75,7 @@
 ---
 
 ![Aurora](./2024/019.png)
+
+---
+
+![Sunspots](./2024/sunspots.png)
