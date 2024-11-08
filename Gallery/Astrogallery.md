@@ -148,4 +148,4 @@ The first part of 2024 was pretty uneventful, I managed to image one night befor
 
 ## April
 
-[**Eclipse pictures**](./Gallery/Eclipse.md)
+[**Eclipse pictures**](./Eclipse.md)
