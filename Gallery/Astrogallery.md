@@ -168,6 +168,6 @@ ATLAS
 
 > To be completed...
 
-![M81](./2024/2024-04-13_M81(taken%20on%202024-03-07).png)
+![ATLAS Comet](./2024/ATLAS.png)
 
 > 85mm focal length | ?? ISO | F/~2 | single exposure
