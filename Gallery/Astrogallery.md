@@ -146,6 +146,10 @@ The second target was captured during the same night, once Orion wasn't visible 
 
 The first part of 2024 was pretty uneventful, I managed to image one night before one amazing event: the total eclipse!
 
-## April
+### April
 
 [**Eclipse pictures**](./Eclipse.md)
+
+### May
+
+[**Aurora pictures**](./Aurora.md)
