@@ -20,4 +20,4 @@
 
 ---
 
-![Finishing a session in the morning](./Gear/OutsideInTheMorning.png)
+![Finishing a session in the morning](./Gear/OutsideInTheMorning.jpg)
